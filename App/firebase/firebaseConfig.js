@@ -4,7 +4,7 @@ import { getFirestore } from 'firebase/firestore';
 
 // Konfiguracja Firebase (uzupełnij swoimi danymi z konsoli Firebase)
 const firebaseConfig = {
-    apiKey: "AIzaSyDQnfv_Jvb1SsC0ygQj7MjEUtcUd8dPe74",
+    apiKey: "",
     authDomain: "whattodoplaner.firebaseapp.com",
     projectId: "whattodoplaner",
     storageBucket: "whattodoplaner.firebasestorage.app",
