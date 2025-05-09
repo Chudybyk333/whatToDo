@@ -1,5 +1,5 @@
 # whatToDo
-Mobile app for task managemnt. Group project for software enginnering cllas.
+Mobile app for task managemnt. Group project for software enginnering class.
 
 App was made using this list of technologies: React Native, express.js, Node.js, Axios, expo, MySQL
 
